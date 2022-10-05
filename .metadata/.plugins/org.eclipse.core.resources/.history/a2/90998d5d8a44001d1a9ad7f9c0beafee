@@ -1,0 +1,27 @@
+package classesWithAttributes;
+
+public class Product {
+	
+	// Attribute veya Field
+	private int _id;
+	private String _name;
+	private String _description;
+	private double _price;
+	private int _stockAnount;
+	private String _renk;
+	private String _kod;
+
+	// Getter 
+	public int getId() {
+		return _id;
+// bunu sadece böyle bırakırsak id yi okuyabilir demek ama yazamaz.
+	}
+	
+	//Setter
+	// set edilen değer parametre olarak verilmelidir.
+	// this benim içerisinde bulunduğum class demektir. 
+	public void setId(int id) {
+		_id = id;
+	}
+
+}

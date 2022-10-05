@@ -1,0 +1,17 @@
+package classesWithAttributes;
+
+public class Product {
+	
+	// Attibute veya Field
+	int id;
+	String name;
+	String description;
+	double price;
+	int stockAnout;
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

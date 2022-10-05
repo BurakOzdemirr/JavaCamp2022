@@ -1,0 +1,20 @@
+package classes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		CustomerManager customerManager = new CustomerManager();
+		customerManager.Add();
+		customerManager.Delete();
+		customerManager.Update();
+
+	}
+
+}
+
+
+// classlar referans tiptir. 
+// değişken tanımladığınızda bellekte onu oluşturmuş oluyorsunuz. 
+// bellekte iki alan var stack ve heap 
+// sen CustomerManager oluşturduğunda bu stackte oluşuyor. 
+// new CustomerManager(); dediğinizde ise Heap de CustomerManager nesnesi oluşuyor. 
