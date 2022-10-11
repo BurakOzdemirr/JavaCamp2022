@@ -2,4 +2,26 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="metotOverloading.dortIslem"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Crud"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Connection"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.business.CourseManager"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.business.CategoryManager"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.JdbcTeacherDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.business.TeacherManager"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.entities.Course"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.CourseDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.JdbcCourseDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.entities.Category"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.CategoryDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.JdbcCategoryDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.entities.Teacher"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.TeacherDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.HibernateTeacherDao"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.core.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.dataAccess.HibernateCourseDao"/>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="kodlamaioWithNLayeredApp.core.logging.Logger"/>
 </qualifiedTypeNameHistroy>
